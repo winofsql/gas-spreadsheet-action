@@ -1,5 +1,6 @@
 # gas-spreadsheet-action
 
+## createSpreadsheet
 ```javascript
 function createSpreadsheet() {
 
@@ -23,6 +24,7 @@ function createSpreadsheet() {
 }
 ```
 
+## getFilesNameAndId
 ```javascript
 function getFilesNameAndId() {
 
@@ -59,6 +61,7 @@ function getFilesNameAndId() {
 }
 ```
 
+## sheetAction
 ```javascript
 function sheetAction() {
 
@@ -82,6 +85,7 @@ function sheetAction() {
 }
 ```
 
+## deleteSheets
 ```javascript
 function deleteSheets() {
 
